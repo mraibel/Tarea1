@@ -4,10 +4,6 @@ Este proyecto utiliza un entorno virtual para gestionar las dependencias necesar
 
 ## Pasos para la ejecución
 
-### 1. Crear el entorno virtual
-
-Ejecuta el siguiente comando en la terminal para crear un entorno virtual:
-
 ```bash
 python -m venv venv
 
